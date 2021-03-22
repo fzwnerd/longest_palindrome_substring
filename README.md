@@ -18,5 +18,5 @@ GET: return the stored longest palindrome, client need to put input string in re
 string to client, if client never POST the input string before, it will return 404.
 
 
-#BinaryReversal
+#BinaryReversal <br />
 Refer to Main.java under root directory
