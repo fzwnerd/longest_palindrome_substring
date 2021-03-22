@@ -1,4 +1,4 @@
-Spring Boot project to find longest palindromic substring
+#Spring Boot project to find longest palindromic substring
 
 
 1. Database configuration:<br />
@@ -18,3 +18,5 @@ GET: return the stored longest palindrome, client need to put input string in re
 string to client, if client never POST the input string before, it will return 404.
 
 
+#BinaryReversal
+Refer to Main.java under root directory
