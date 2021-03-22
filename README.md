@@ -1,5 +1,5 @@
 Spring Boot project to find longest palindromic substring
 
 
-1. Database configuration:
+1. Database configuration:<br />
 aaa
