@@ -6,7 +6,8 @@ database username: springstudent<br />
 database password: springstudent<br />
 database name: palindromic_substring_problem<br />
 table name: palindromicsubstr<br />
-Table has three columns: id(PK), input_str, answer(longest palindromic substring in input_str)
+Table has three columns: id(PK), input_str, answer(longest palindromic substring in input_str)<br/>
+Refer to palindromesub.sql
 
 
 2. api<br />
